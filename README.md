@@ -1,8 +1,6 @@
 # bellabeat_data_analysis
 Data analytics case study exploring Fitbit fitness tracker data using Python, Pandas, Jupyter Notebook, and Tableau.
 
-I analyzed users' daily activity and sleep data to find some useful trends and make recommendations for Bellabeat
-
 ## Questions
 
 - What are the main trends in smart device usage?
